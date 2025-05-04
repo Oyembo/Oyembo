@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" alt="Your Profile Picture" width="150" height="150" style="border-radius: 50%;">
-</p>
-
 <h1 align="center">YOUR_NAME</h1>
 <h3 align="center">Aspiring Back End Developer & Natural Resource Specialist | Passionate about Earth Observation & Biodiversity Management</h3>
 
@@ -28,14 +24,7 @@ I am particularly interested in working on **geocoding projects** that have dire
 
 ## Projects 🛠️
 
-Here are some of the projects I'm currently working on or planning to develop:
-
-* **[Project Title 1 (Geocoding & Biodiversity Focused)]:** [Brief description of a project that involves geocoding for biodiversity management, e.g., a tool to map reported sightings of endangered species]
-    * Tech Stack: Python, Geocoding Libraries, potentially GIS libraries
-    * [Link to the repository if available]
-* **[Project Title 2 (Potentially linking Earth Observation & Biodiversity)]:** [Brief description of a project that connects Earth observation data with biodiversity analysis, e.g., using satellite imagery to assess habitat loss]
-    * Tech Stack: Python, Earth Observation Data Processing Libraries
-    * [Link to the repository if available]
+Here are some of the projects I'm currently planning to develop:
 * **[Future Project Idea: Geocoding Tool for Biodiversity Monitoring]:** A future project focused on developing a geocoding tool specifically designed for biodiversity monitoring, such as tracking invasive species or mapping critical habitats.
 
 ## Connect with Me 🤝
