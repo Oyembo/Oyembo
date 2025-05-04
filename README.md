@@ -18,7 +18,7 @@ I am particularly interested in working on **geocoding projects** that have dire
 
 **Back End Development:** Python
 
-**Tools & Technologies:** Git, GitHub, [mention other tools relevant to both natural resources and Python, e.g., QGIS, Pandas, NumPy]
+**Tools & Technologies:** Git, GitHub, QGIS, ArcGIS
 
 **Other Interests:** Earth Observation, Remote Sensing, GIS, Environmental Data Analysis, Biodiversity Conservation
 
